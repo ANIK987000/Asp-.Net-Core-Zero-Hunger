@@ -1,0 +1,799 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\views\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\views\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\repo\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\repo\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\controllers\\ngocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\controllers\\ngocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\repo\\restaurantrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\repo\\restaurantrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\views\\ngo\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\views\\ngo\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\models\\ngo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\models\\ngo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\views\\restaurant\\createcollectrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\views\\restaurant\\createcollectrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\views\\restaurant\\collectrequestrequestedbyrestaurant.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\views\\restaurant\\collectrequestrequestedbyrestaurant.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\views\\employee\\collectrequestsbyemployeeid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\views\\employee\\collectrequestsbyemployeeid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\views\\employee\\assignedcollectrequests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\views\\employee\\assignedcollectrequests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\views\\ngo\\updaterestaurant.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\views\\ngo\\updaterestaurant.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\views\\ngo\\updateemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\views\\ngo\\updateemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\views\\ngo\\restaurantlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\views\\ngo\\restaurantlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\views\\ngo\\restaurantdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\views\\ngo\\restaurantdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\views\\ngo\\employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\views\\ngo\\employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\views\\ngo\\employeedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\views\\ngo\\employeedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\views\\ngo\\collectrequestlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\views\\ngo\\collectrequestlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\views\\ngo\\collectrequestdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\views\\ngo\\collectrequestdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\views\\ngo\\addrestaurant.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\views\\ngo\\addrestaurant.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\repo\\collectrequestrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\repo\\collectrequestrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\repo\\assignemployeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\repo\\assignemployeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\data\\zerohungerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\data\\zerohungerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\zero_hunger_management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\zero_hunger_management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Migrations\\20240623020550_Final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Zero_Hunger_Management\\Migrations\\20240623020550_Final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Migrations\\20240623014857_Final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Zero_Hunger_Management\\Migrations\\20240623014857_Final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Migrations\\20240623014302_Final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Zero_Hunger_Management\\Migrations\\20240623014302_Final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\models\\assignemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\models\\assignemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\models\\collectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\models\\collectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Migrations\\20240622100312_Final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Zero_Hunger_Management\\Migrations\\20240622100312_Final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Migrations\\20240622042844_Try.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Zero_Hunger_Management\\Migrations\\20240622042844_Try.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|e:\\newly .net practice\\zero_hunger_management\\zero_hunger_management\\migrations\\20240623020729_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCCB02E-C760-40FC-B850-3CB1B9B426DC}|Zero_Hunger_Management\\Zero_Hunger_Management.csproj|solutionrelative:zero_hunger_management\\migrations\\20240623020729_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Zero_Hunger_Management\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T11:36:47.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Zero_Hunger_Management\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T11:36:00.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Zero_Hunger_Management\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T11:36:03.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Zero_Hunger_Management\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-27T07:34:15.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Zero_Hunger_Management\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAACMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T11:36:06.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Controllers\\RegisterController.cs",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "Zero_Hunger_Management\\Controllers\\RegisterController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAADgvycAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T06:54:29.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Views\\Login\\Login.cshtml",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "Zero_Hunger_Management\\Views\\Login\\Login.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAQwFUAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T03:46:00.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Program.cs",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Program.cs",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Program.cs",
+              "RelativeToolTip": "Zero_Hunger_Management\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T04:17:36.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\Register\\Register.cshtml",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Views\\Register\\Register.cshtml",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\Register\\Register.cshtml",
+              "RelativeToolTip": "Zero_Hunger_Management\\Views\\Register\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T06:48:57.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Zero_Hunger_Management\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwCIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T05:32:15.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cs",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Models\\Register.cs",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Models\\Register.cs",
+              "RelativeToolTip": "Zero_Hunger_Management\\Models\\Register.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T04:45:12.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeRepo.cs",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Repo\\EmployeeRepo.cs",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Repo\\EmployeeRepo.cs",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Repo\\EmployeeRepo.cs",
+              "RelativeToolTip": "Zero_Hunger_Management\\Repo\\EmployeeRepo.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowEwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T05:22:16.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RestaurantController.cs",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Controllers\\RestaurantController.cs",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Controllers\\RestaurantController.cs",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Controllers\\RestaurantController.cs",
+              "RelativeToolTip": "Zero_Hunger_Management\\Controllers\\RestaurantController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAcwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T05:31:59.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NGOController.cs",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Controllers\\NGOController.cs",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Controllers\\NGOController.cs",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Controllers\\NGOController.cs",
+              "RelativeToolTip": "Zero_Hunger_Management\\Controllers\\NGOController.cs",
+              "ViewState": "AQIAABcBAAAAAAAAAAAtwFoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T05:20:58.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RestaurantRepo.cs",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Repo\\RestaurantRepo.cs",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Repo\\RestaurantRepo.cs",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Repo\\RestaurantRepo.cs",
+              "RelativeToolTip": "Zero_Hunger_Management\\Repo\\RestaurantRepo.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwEMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T05:09:16.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddEmployee.cshtml",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\NGO\\AddEmployee.cshtml",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Views\\NGO\\AddEmployee.cshtml",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\NGO\\AddEmployee.cshtml",
+              "RelativeToolTip": "Zero_Hunger_Management\\Views\\NGO\\AddEmployee.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T10:31:56.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Models\\Employee.cs",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Models\\Employee.cs",
+              "RelativeToolTip": "Zero_Hunger_Management\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T04:24:21.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Models\\Restaurant.cs",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Models\\Restaurant.cs",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Models\\Restaurant.cs",
+              "RelativeToolTip": "Zero_Hunger_Management\\Models\\Restaurant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T04:24:07.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NGO.cs",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Models\\NGO.cs",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Models\\NGO.cs",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Models\\NGO.cs",
+              "RelativeToolTip": "Zero_Hunger_Management\\Models\\NGO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T04:14:30.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Zero_Hunger_Management\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T11:25:29.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateCollectRequest.cshtml",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\Restaurant\\CreateCollectRequest.cshtml",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Views\\Restaurant\\CreateCollectRequest.cshtml",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\Restaurant\\CreateCollectRequest.cshtml",
+              "RelativeToolTip": "Zero_Hunger_Management\\Views\\Restaurant\\CreateCollectRequest.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T10:40:13.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CollectRequestRequestedByRestaurant.cshtml",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\Restaurant\\CollectRequestRequestedByRestaurant.cshtml",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Views\\Restaurant\\CollectRequestRequestedByRestaurant.cshtml",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\Restaurant\\CollectRequestRequestedByRestaurant.cshtml",
+              "RelativeToolTip": "Zero_Hunger_Management\\Views\\Restaurant\\CollectRequestRequestedByRestaurant.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwCUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T10:40:50.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CollectRequestsByEmployeeID.cshtml",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\Employee\\CollectRequestsByEmployeeID.cshtml",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Views\\Employee\\CollectRequestsByEmployeeID.cshtml",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\Employee\\CollectRequestsByEmployeeID.cshtml",
+              "RelativeToolTip": "Zero_Hunger_Management\\Views\\Employee\\CollectRequestsByEmployeeID.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T10:39:27.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AssignedCollectRequests.cshtml",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\Employee\\AssignedCollectRequests.cshtml",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Views\\Employee\\AssignedCollectRequests.cshtml",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\Employee\\AssignedCollectRequests.cshtml",
+              "RelativeToolTip": "Zero_Hunger_Management\\Views\\Employee\\AssignedCollectRequests.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T10:38:24.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RestaurantList.cshtml",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\NGO\\RestaurantList.cshtml",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Views\\NGO\\RestaurantList.cshtml",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\NGO\\RestaurantList.cshtml",
+              "RelativeToolTip": "Zero_Hunger_Management\\Views\\NGO\\RestaurantList.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACkAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T10:32:11.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UpdateEmployee.cshtml",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\NGO\\UpdateEmployee.cshtml",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Views\\NGO\\UpdateEmployee.cshtml",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\NGO\\UpdateEmployee.cshtml",
+              "RelativeToolTip": "Zero_Hunger_Management\\Views\\NGO\\UpdateEmployee.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T10:35:25.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UpdateRestaurant.cshtml",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\NGO\\UpdateRestaurant.cshtml",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Views\\NGO\\UpdateRestaurant.cshtml",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\NGO\\UpdateRestaurant.cshtml",
+              "RelativeToolTip": "Zero_Hunger_Management\\Views\\NGO\\UpdateRestaurant.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T10:35:05.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RestaurantDetails.cshtml",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\NGO\\RestaurantDetails.cshtml",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Views\\NGO\\RestaurantDetails.cshtml",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\NGO\\RestaurantDetails.cshtml",
+              "RelativeToolTip": "Zero_Hunger_Management\\Views\\NGO\\RestaurantDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T10:33:04.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EmployeeList.cshtml",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\NGO\\EmployeeList.cshtml",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Views\\NGO\\EmployeeList.cshtml",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\NGO\\EmployeeList.cshtml",
+              "RelativeToolTip": "Zero_Hunger_Management\\Views\\NGO\\EmployeeList.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAwDEAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T10:32:43.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EmployeeDetails.cshtml",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\NGO\\EmployeeDetails.cshtml",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Views\\NGO\\EmployeeDetails.cshtml",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\NGO\\EmployeeDetails.cshtml",
+              "RelativeToolTip": "Zero_Hunger_Management\\Views\\NGO\\EmployeeDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T10:33:17.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CollectRequestList.cshtml",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\NGO\\CollectRequestList.cshtml",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Views\\NGO\\CollectRequestList.cshtml",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\NGO\\CollectRequestList.cshtml",
+              "RelativeToolTip": "Zero_Hunger_Management\\Views\\NGO\\CollectRequestList.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T10:36:54.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CollectRequestDetails.cshtml",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\NGO\\CollectRequestDetails.cshtml",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Views\\NGO\\CollectRequestDetails.cshtml",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\NGO\\CollectRequestDetails.cshtml",
+              "RelativeToolTip": "Zero_Hunger_Management\\Views\\NGO\\CollectRequestDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T10:36:37.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AddRestaurant.cshtml",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\NGO\\AddRestaurant.cshtml",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Views\\NGO\\AddRestaurant.cshtml",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\NGO\\AddRestaurant.cshtml",
+              "RelativeToolTip": "Zero_Hunger_Management\\Views\\NGO\\AddRestaurant.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T10:31:41.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CollectRequestRepo.cs",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Repo\\CollectRequestRepo.cs",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Repo\\CollectRequestRepo.cs",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Repo\\CollectRequestRepo.cs",
+              "RelativeToolTip": "Zero_Hunger_Management\\Repo\\CollectRequestRepo.cs",
+              "ViewState": "AQIAALMAAAAAAAAAAAAAwJQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T05:22:39.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AssignEmployeeRepo.cs",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Repo\\AssignEmployeeRepo.cs",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Repo\\AssignEmployeeRepo.cs",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Repo\\AssignEmployeeRepo.cs",
+              "RelativeToolTip": "Zero_Hunger_Management\\Repo\\AssignEmployeeRepo.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwA8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T05:22:55.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ZeroHungerDBContext.cs",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Data\\ZeroHungerDBContext.cs",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Data\\ZeroHungerDBContext.cs",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Data\\ZeroHungerDBContext.cs",
+              "RelativeToolTip": "Zero_Hunger_Management\\Data\\ZeroHungerDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T04:15:47.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Zero_Hunger_Management\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T10:23:22.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\appsettings.json",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\appsettings.json",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\appsettings.json",
+              "RelativeToolTip": "Zero_Hunger_Management\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-22T04:20:43.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Zero_Hunger_Management.csproj",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Zero_Hunger_Management.csproj",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Zero_Hunger_Management.csproj",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Zero_Hunger_Management.csproj",
+              "RelativeToolTip": "Zero_Hunger_Management\\Zero_Hunger_Management.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-22T04:15:07.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20240623020729_Final.cs",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Migrations\\20240623020729_Final.cs",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Migrations\\20240623020729_Final.cs",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Migrations\\20240623020729_Final.cs",
+              "RelativeToolTip": "Zero_Hunger_Management\\Migrations\\20240623020729_Final.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T02:07:29.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20240623020550_Final.cs",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Migrations\\20240623020550_Final.cs",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Migrations\\20240623020550_Final.cs",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Migrations\\20240623020550_Final.cs",
+              "RelativeToolTip": "Zero_Hunger_Management\\Migrations\\20240623020550_Final.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T02:05:50.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20240623014857_Final.cs",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Migrations\\20240623014857_Final.cs",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Migrations\\20240623014857_Final.cs",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Migrations\\20240623014857_Final.cs",
+              "RelativeToolTip": "Zero_Hunger_Management\\Migrations\\20240623014857_Final.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T01:48:57.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20240623014302_Final.cs",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Migrations\\20240623014302_Final.cs",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Migrations\\20240623014302_Final.cs",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Migrations\\20240623014302_Final.cs",
+              "RelativeToolTip": "Zero_Hunger_Management\\Migrations\\20240623014302_Final.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T01:43:03.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AssignEmployee.cs",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Models\\AssignEmployee.cs",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Models\\AssignEmployee.cs",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Models\\AssignEmployee.cs",
+              "RelativeToolTip": "Zero_Hunger_Management\\Models\\AssignEmployee.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAcwAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T04:24:36.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CollectRequest.cs",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Models\\CollectRequest.cs",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Models\\CollectRequest.cs",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Models\\CollectRequest.cs",
+              "RelativeToolTip": "Zero_Hunger_Management\\Models\\CollectRequest.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA0wA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T04:24:54.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20240622100312_Final.cs",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Migrations\\20240622100312_Final.cs",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Migrations\\20240622100312_Final.cs",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Migrations\\20240622100312_Final.cs",
+              "RelativeToolTip": "Zero_Hunger_Management\\Migrations\\20240622100312_Final.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T10:03:13.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20240622042844_Try.cs",
+              "DocumentMoniker": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Migrations\\20240622042844_Try.cs",
+              "RelativeDocumentMoniker": "Zero_Hunger_Management\\Migrations\\20240622042844_Try.cs",
+              "ToolTip": "E:\\Newly .Net Practice\\Zero_Hunger_Management\\Zero_Hunger_Management\\Migrations\\20240622042844_Try.cs",
+              "RelativeToolTip": "Zero_Hunger_Management\\Migrations\\20240622042844_Try.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T04:28:44.921Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

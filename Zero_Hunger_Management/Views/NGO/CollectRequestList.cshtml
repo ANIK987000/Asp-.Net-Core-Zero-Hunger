@@ -1,0 +1,55 @@
+﻿@{
+    ViewBag.Title = "CollectRequestList";
+}
+
+<h2>Collect Request List</h2>
+
+@if (TempData["assign"] != null)
+{
+    <div class="alert alert-info">
+        @TempData["assign"]
+    </div>
+}
+
+@if (TempData["accepted"] != null)
+{
+    <div class="alert alert-info">
+        @TempData["accepted"]
+    </div>
+}
+
+
+<table class="table table-bordered bg-success">
+    <tr>
+        <th>ID</th>
+        <th>Preserved Time</th>
+        <th>Max Preserved Time </th>
+        <th>Location</th>
+        <th>For how many persons</th>
+        <th>Status</th>
+        <th></th>
+        <th></th>
+        <th></th>
+
+    </tr>
+    @foreach (var collectRequest in Model)
+    {
+        <tr>
+            <td>@collectRequest.ID</td>
+            <td>@collectRequest.PresentTime</td>
+            <td>@collectRequest.MaxPreservedTime</td>
+            <td>@collectRequest.Location</td>
+            <td>@collectRequest.ForHowManyPersons</td>
+            <td>@collectRequest.Status</td>
+
+            <td><a href="/NGO/CollectRequestDetails/@collectRequest.ID" class="btn btn-info">Assign an employee</a></td>
+            <td><a href="/NGO/AcceptCollectRequest/@collectRequest.ID" class="btn btn-success">Accept</a></td>
+            @*<td><a href="/NGO/DeleteCollectRequest/@collectRequest.ID" class="btn btn-danger">Delete</a></td>*@
+
+
+
+        </tr>
+
+    }
+
+</table>

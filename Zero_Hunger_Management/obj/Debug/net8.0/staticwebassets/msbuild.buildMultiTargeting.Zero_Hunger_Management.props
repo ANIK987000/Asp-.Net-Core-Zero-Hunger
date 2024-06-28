@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Zero_Hunger_Management.props" />
+</Project>

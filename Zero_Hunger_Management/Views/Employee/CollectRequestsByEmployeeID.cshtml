@@ -1,0 +1,43 @@
+﻿@{
+    ViewBag.Title = "CollectRequestsByEmployeeID";
+}
+
+<h2>Collect Requests By Employee ID</h2>
+
+@if (TempData["completed"] != null)
+{
+    <div class="alert alert-info">
+        @TempData["completed"]
+    </div>
+}
+
+
+<table class="table table-bordered bg-success">
+    <tr>
+        <th>ID</th>
+        <th>Restaurant Name</th>
+        <th>Location</th>
+        <th>Max Preserved Time</th>
+        <th>Status</th>
+        <th></th>
+
+    </tr>
+    @foreach (var employee in Model)
+    {
+        <tr>
+            <td>@employee.ID</td>
+            @*<td>@employee.CRID</td>*@
+            <td>@employee.RName</td>
+            <td>@employee.RLocation</td>
+            <td>@employee.MaxPreservedTime</td>
+            <td>@employee.Status</td>
+            <td><a href="/Employee/collected/@employee.CRID" class="btn btn-info">Collected</a></td>
+
+
+
+
+        </tr>
+
+    }
+
+</table>

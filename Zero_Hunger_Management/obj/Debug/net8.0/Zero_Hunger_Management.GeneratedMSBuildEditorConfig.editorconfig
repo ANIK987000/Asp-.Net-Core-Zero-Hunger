@@ -1,0 +1,111 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Zero_Hunger_Management
+build_property.RootNamespace = Zero_Hunger_Management
+build_property.ProjectDir = E:\Newly .Net Practice\Zero_Hunger_Management\Zero_Hunger_Management\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Newly .Net Practice\Zero_Hunger_Management\Zero_Hunger_Management
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/Newly .Net Practice/Zero_Hunger_Management/Zero_Hunger_Management/Views/Employee/AssignedCollectRequests.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQXNzaWduZWRDb2xsZWN0UmVxdWVzdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Newly .Net Practice/Zero_Hunger_Management/Zero_Hunger_Management/Views/Employee/CollectRequestsByEmployeeID.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ29sbGVjdFJlcXVlc3RzQnlFbXBsb3llZUlELmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Newly .Net Practice/Zero_Hunger_Management/Zero_Hunger_Management/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Newly .Net Practice/Zero_Hunger_Management/Zero_Hunger_Management/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Newly .Net Practice/Zero_Hunger_Management/Zero_Hunger_Management/Views/Login/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Newly .Net Practice/Zero_Hunger_Management/Zero_Hunger_Management/Views/NGO/AddEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTkdPXEFkZEVtcGxveWVlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Newly .Net Practice/Zero_Hunger_Management/Zero_Hunger_Management/Views/NGO/AddRestaurant.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTkdPXEFkZFJlc3RhdXJhbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Newly .Net Practice/Zero_Hunger_Management/Zero_Hunger_Management/Views/NGO/CollectRequestDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTkdPXENvbGxlY3RSZXF1ZXN0RGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Newly .Net Practice/Zero_Hunger_Management/Zero_Hunger_Management/Views/NGO/CollectRequestList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTkdPXENvbGxlY3RSZXF1ZXN0TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Newly .Net Practice/Zero_Hunger_Management/Zero_Hunger_Management/Views/NGO/EmployeeDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTkdPXEVtcGxveWVlRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Newly .Net Practice/Zero_Hunger_Management/Zero_Hunger_Management/Views/NGO/EmployeeList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTkdPXEVtcGxveWVlTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Newly .Net Practice/Zero_Hunger_Management/Zero_Hunger_Management/Views/NGO/RestaurantDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTkdPXFJlc3RhdXJhbnREZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Newly .Net Practice/Zero_Hunger_Management/Zero_Hunger_Management/Views/NGO/RestaurantList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTkdPXFJlc3RhdXJhbnRMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Newly .Net Practice/Zero_Hunger_Management/Zero_Hunger_Management/Views/NGO/UpdateEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTkdPXFVwZGF0ZUVtcGxveWVlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Newly .Net Practice/Zero_Hunger_Management/Zero_Hunger_Management/Views/NGO/UpdateRestaurant.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTkdPXFVwZGF0ZVJlc3RhdXJhbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Newly .Net Practice/Zero_Hunger_Management/Zero_Hunger_Management/Views/Register/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Newly .Net Practice/Zero_Hunger_Management/Zero_Hunger_Management/Views/Restaurant/CollectRequestRequestedByRestaurant.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmFudFxDb2xsZWN0UmVxdWVzdFJlcXVlc3RlZEJ5UmVzdGF1cmFudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Newly .Net Practice/Zero_Hunger_Management/Zero_Hunger_Management/Views/Restaurant/CreateCollectRequest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmFudFxDcmVhdGVDb2xsZWN0UmVxdWVzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Newly .Net Practice/Zero_Hunger_Management/Zero_Hunger_Management/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Newly .Net Practice/Zero_Hunger_Management/Zero_Hunger_Management/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Newly .Net Practice/Zero_Hunger_Management/Zero_Hunger_Management/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Newly .Net Practice/Zero_Hunger_Management/Zero_Hunger_Management/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Newly .Net Practice/Zero_Hunger_Management/Zero_Hunger_Management/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-cda4b03upv

@@ -1,0 +1,20 @@
+﻿@{
+    ViewBag.Title = "CreateCollectRequest";
+}
+
+<h2>Create Collect Request</h2>
+
+@if (TempData["created"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["created"]
+    </div>
+}
+<form action="" method="post">
+    @*<input type="datetime" name="PresentTime" placeholder="Present Time" class="form-control" />*@
+    <input type="datetime" name="MaxPreservedTime" placeholder="Max Preserved Time" class="form-control" />
+    <input type="text" name="Location" placeholder="Location" class="form-control" />
+    <input type="text" name="ForHowManyPersons" placeholder="For How Many Persons" class="form-control" />
+    @*<input type="text" name="Status" placeholder="Status" class="form-control" />*@
+    <input type="submit" value="Create" class="btn btn-danger" />
+</form>

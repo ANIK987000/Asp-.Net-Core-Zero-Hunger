@@ -1,0 +1,48 @@
+﻿@{
+    ViewBag.Title = "AssignedCollectRequests";
+}
+
+<h2>Assigned Collect Requests</h2>
+
+@if (TempData["deleted"] != null)
+{
+    <div class="alert alert-info">
+        @TempData["deleted"]
+    </div>
+}
+
+
+<table class="table table-bordered bg-success">
+    <tr>
+        <th>ID</th>
+        @*<th>EID</th>
+        <th>RID</th>
+        <th>CRID</th>*@
+        <th>Restaurant Name</th>
+        <th>Location</th>
+        <th>Max Preserved Time</th>
+        <th>Status</th>
+
+    </tr>
+    @foreach (var employee in Model)
+    {
+        <tr>
+            <td>@employee.ID</td>
+            @*<td>@employee.EID</td>
+        <td>@employee.RID</td>
+        <td>@employee.CRID</td>*@
+            <td>@employee.RName</td>
+            <td>@employee.RLocation</td>
+            <td>@employee.MaxPreservedTime</td>
+            <td>@employee.Status</td>
+            <td><a href="/NGO/DeleteAssignedCollectRequest/@employee.ID" class="btn btn-danger">Delete</a></td>
+
+
+
+
+        </tr>
+
+    }
+
+</table>
+

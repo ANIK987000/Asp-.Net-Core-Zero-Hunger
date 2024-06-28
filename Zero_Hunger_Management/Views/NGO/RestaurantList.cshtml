@@ -1,0 +1,52 @@
+﻿@{
+    ViewBag.Title = "RestaurantList";
+}
+
+<h2>Restaurant List</h2>
+
+
+@if (TempData["added"] != null)
+{
+    <div class="alert alert-info">
+        @TempData["added"]
+    </div>
+}
+
+
+
+@if (TempData["updated"] != null)
+{
+    <div class="alert alert-info">
+        @TempData["updated"]
+    </div>
+}
+
+<table class="table table-bordered bg-success">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Location</th>
+        <th>Email</th>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>
+    @foreach (var restaurant in Model)
+    {
+        <tr>
+            <td>@restaurant.ID</td>
+            <td>@restaurant.Name</td>
+            <td>@restaurant.Location</td>
+            <td>@restaurant.Email</td>
+            <td><a href="/NGO/RestaurantDetails/@restaurant.ID" class="btn btn-info">Details</a></td>
+            <td><a href="/NGO/UpdateRestaurant/@restaurant.ID" class="btn btn-primary">Edit</a></td>
+            @*<td><a href="/NGO/DeleteRestaurant/@restaurant.ID" class="btn btn-danger">Delete</a></td>*@
+
+
+        </tr>
+
+    }
+
+</table>
+
+<td><a href="/NGO/AddRestaurant" class="btn btn-info">Add New</a></td>

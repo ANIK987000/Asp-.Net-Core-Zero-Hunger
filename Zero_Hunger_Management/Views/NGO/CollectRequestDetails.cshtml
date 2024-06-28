@@ -1,0 +1,88 @@
+﻿@{
+    ViewBag.Title = "CollectRequestDetails";
+}
+
+<h2>Collect Request Details</h2>
+
+<table class="table table-bordered bg-info">
+    <tr>
+        <td>ID</td>
+        <td>:</td>
+        <td>@Model.ID</td>
+    </tr>
+    <tr>
+        <td>Starting Preserved Time</td>
+        <td>:</td>
+        <td>@Model.PresentTime</td>
+    </tr>
+    <tr>
+        <td>Max Preserved Time</td>
+        <td>:</td>
+        <td>@Model.MaxPreservedTime</td>
+    </tr>
+    <tr>
+        <td>Location</td>
+        <td>:</td>
+        <td>@Model.Location</td>
+    </tr>
+    <tr>
+        <td>For How Many Persons</td>
+        <td>:</td>
+        <td>@Model.ForHowManyPersons</td>
+    </tr>
+    <tr>
+        <td>Status</td>
+        <td>:</td>
+        <td>@Model.Status</td>
+    </tr>
+
+    <tr>
+        <td>Restaurant</td>
+        <td>:</td>
+        <td>@ViewBag.restaurant</td>
+    </tr>
+
+
+</table>
+
+
+<h2>Employee List</h2>
+
+
+
+
+<table class="table table-bordered bg-success">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Location</th>
+        <th></th>
+        <th></th>
+    </tr>
+    @foreach (var employee in ViewBag.employList)
+    {
+        <tr>
+            <td>@employee.ID</td>
+            <td>@employee.Name</td>
+            <td>@employee.Location</td>
+
+            @*<td><a href="/NGO/AssignEmployee/@employee.ID" class="btn btn-success">Assign</a></td>*@
+            <td>
+                <form action="/NGO/AssignEmployee" method="post">
+                    <input type="hidden" name="EID" value="@employee.ID" class="form-control" />
+                    <input type="hidden" name="RID" value="@Model.RID" class="form-control" />
+                    <input type="hidden" name="CRID" value="@Model.ID" class="form-control" />
+                    <input type="hidden" name="RNAME" value="@ViewBag.restaurant" class="form-control" />
+                    <input type="hidden" name="RLocation" value="@Model.Location" class="form-control" />
+                    <input type="hidden" name="MaxPreservedTime" value="@Model.MaxPreservedTime" class="form-control" />
+                    <input type="hidden" name="Status" value="@Model.Status" class="form-control" />
+
+                    <input type="submit" value="Assign" class="btn btn-danger" />
+                </form>
+            </td>
+
+        </tr>
+
+    }
+
+</table>
